@@ -2,21 +2,21 @@
 
 TODO:
 
-  Develop Stack Class using linked list representation
+  - Develop Stack Class using linked list representation
   
-    -data for each node will cotain a character and two integers
+    > data for each node will cotain a character and two integers
     
-  Two stacks needed
+  - Two stacks needed
   
-  Functions:
+  - Functions:
   
-  Clear
+   > Clear
   
-  Undo
+  > Undo
   
-  Redo
+  > Redo
   
-    -check if there has been an undo first
+    > - check if there has been an undo first
     
-  Quit
+  > Quit
   
